@@ -18,6 +18,7 @@ namespace Opdracht1_HalloWereld
             // Velden
 
             // Programma 
+            Console.ReadKey();
 
         }
     }
