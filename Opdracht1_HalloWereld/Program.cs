@@ -16,9 +16,14 @@ namespace Opdracht1_HalloWereld
              */
 
             // Velden
+            String _naam;
 
             // Programma 
-            Console.Write("Hallo wereld");
+            Console.WriteLine("Hallo wereld");
+            Console.WriteLine();
+            Console.Write("Geef uw naam: ");
+            _naam = Console.ReadLine();
+
 
             Console.ReadKey();
 
