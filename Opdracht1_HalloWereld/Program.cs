@@ -10,6 +10,15 @@ namespace Opdracht1_HalloWereld
     {
         static void Main(string[] args)
         {
+            /* Tom Adriaens 
+             * 08/09/2022
+             * Project : Hallo wereld
+             */
+
+            // Velden
+
+            // Programma 
+
         }
     }
 }
