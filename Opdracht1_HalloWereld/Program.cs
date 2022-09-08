@@ -18,6 +18,8 @@ namespace Opdracht1_HalloWereld
             // Velden
 
             // Programma 
+            Console.Write("Hallo wereld");
+
             Console.ReadKey();
 
         }
