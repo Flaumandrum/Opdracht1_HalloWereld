@@ -21,9 +21,17 @@ namespace Opdracht1_HalloWereld
             // Programma 
             Console.WriteLine("Hallo wereld");
             Console.WriteLine();
+
             Console.Write("Geef uw naam: ");
             _naam = Console.ReadLine();
 
+            Console.WriteLine();
+            Console.WriteLine("Hallo "+_naam);
+            Console.WriteLine("Hallo {0}",_naam);
+            Console.WriteLine($"{_naam}");
+            
+
+            Console.WriteLine("Druk op enter om af te sluiten.")
 
             Console.ReadKey();
 
